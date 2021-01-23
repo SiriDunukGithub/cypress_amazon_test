@@ -16,5 +16,7 @@
     "url": "https://github.com/SiriDunukGithub/cypress_amazon_test/issues"
   },
   "homepage": "https://github.com/SiriDunukGithub/cypress_amazon_test#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "cypress": "^6.3.0"
+  }
 }
