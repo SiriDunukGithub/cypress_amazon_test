@@ -1,0 +1,20 @@
+{
+  "name": "cypress_amazon_test",
+  "version": "1.0.0",
+  "description": "to test amazon test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiriDunukGithub/cypress_amazon_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiriDunukGithub/cypress_amazon_test/issues"
+  },
+  "homepage": "https://github.com/SiriDunukGithub/cypress_amazon_test#readme",
+  "devDependencies": {}
+}
